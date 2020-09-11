@@ -1,0 +1,290 @@
+[
+    {
+        "start": "2021-04-02T00:00Z",
+        "end": "2021-04-11T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2021-SN"
+    },
+    {
+        "start": "2021-05-14T00:00Z",
+        "end": "2021-05-15T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2021-SN"
+    },
+    {
+        "start": "2021-07-26T00:00Z",
+        "end": "2021-09-04T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2021-SN"
+    },
+    {
+        "start": "2021-10-18T00:00Z",
+        "end": "2021-10-31T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2021-SN"
+    },
+    {
+        "start": "2021-12-23T00:00Z",
+        "end": "2022-01-02T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2021-SN"
+    },
+    {
+        "start": "2021-02-08T00:00Z",
+        "end": "2021-02-21T00:00Z",
+        "year": 2021,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2021-SN"
+    },
+    {
+        "start": "2017-02-13T00:00Z",
+        "end": "2017-02-25T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2017-SN"
+    },
+    {
+        "start": "2017-04-13T00:00Z",
+        "end": "2017-04-23T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2017-SN"
+    },
+    {
+        "start": "2017-05-26T00:00Z",
+        "end": "2017-05-27T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2017-SN"
+    },
+    {
+        "start": "2017-06-26T00:00Z",
+        "end": "2017-08-05T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2017-SN"
+    },
+    {
+        "start": "2017-10-02T00:00Z",
+        "end": "2017-10-15T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2017-SN"
+    },
+    {
+        "start": "2017-12-23T00:00Z",
+        "end": "2018-01-03T00:00Z",
+        "year": 2017,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2017-SN"
+    },
+    {
+        "start": "2018-10-08T00:00Z",
+        "end": "2018-10-21T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2018-SN"
+    },
+    {
+        "start": "2018-12-19T00:00Z",
+        "end": "2019-01-05T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2018-SN"
+    },
+    {
+        "start": "2018-07-02T00:00Z",
+        "end": "2018-08-11T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2018-SN"
+    },
+    {
+        "start": "2018-02-12T00:00Z",
+        "end": "2018-02-24T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2018-SN"
+    },
+    {
+        "start": "2018-03-29T00:00Z",
+        "end": "2018-04-07T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2018-SN"
+    },
+    {
+        "start": "2018-05-11T00:00Z",
+        "end": "2018-05-12T00:00Z",
+        "year": 2018,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2018-SN"
+    },
+    {
+        "start": "2020-02-10T00:00Z",
+        "end": "2020-02-23T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2020-SN"
+    },
+    {
+        "start": "2020-04-10T00:00Z",
+        "end": "2020-04-19T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2020-SN"
+    },
+    {
+        "start": "2020-05-22T00:00Z",
+        "end": "2020-05-23T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2020-SN"
+    },
+    {
+        "start": "2020-07-20T00:00Z",
+        "end": "2020-08-29T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2020-SN"
+    },
+    {
+        "start": "2020-10-19T00:00Z",
+        "end": "2020-11-01T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2020-SN"
+    },
+    {
+        "start": "2020-12-23T00:00Z",
+        "end": "2021-01-03T00:00Z",
+        "year": 2020,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2020-SN"
+    },
+    {
+        "start": "2022-02-12T00:00Z",
+        "end": "2022-02-27T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2022-SN"
+    },
+    {
+        "start": "2022-04-15T00:00Z",
+        "end": "2022-04-24T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2022-SN"
+    },
+    {
+        "start": "2022-05-27T00:00Z",
+        "end": "2022-05-28T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2022-SN"
+    },
+    {
+        "start": "2022-07-18T00:00Z",
+        "end": "2022-08-27T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2022-SN"
+    },
+    {
+        "start": "2022-10-17T00:00Z",
+        "end": "2022-10-30T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2022-SN"
+    },
+    {
+        "start": "2022-12-22T00:00Z",
+        "end": "2023-01-03T00:00Z",
+        "year": 2022,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2022-SN"
+    },
+    {
+        "start": "2019-02-18T00:00Z",
+        "end": "2019-03-03T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "winterferien",
+        "slug": "winterferien-2019-SN"
+    },
+    {
+        "start": "2019-04-19T00:00Z",
+        "end": "2019-04-27T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "osterferien",
+        "slug": "osterferien-2019-SN"
+    },
+    {
+        "start": "2019-05-31T00:00Z",
+        "end": "2019-06-01T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "pfingstferien",
+        "slug": "pfingstferien-2019-SN"
+    },
+    {
+        "start": "2019-07-08T00:00Z",
+        "end": "2019-08-17T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "sommerferien",
+        "slug": "sommerferien-2019-SN"
+    },
+    {
+        "start": "2019-10-14T00:00Z",
+        "end": "2019-10-26T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "herbstferien",
+        "slug": "herbstferien-2019-SN"
+    },
+    {
+        "start": "2019-12-21T00:00Z",
+        "end": "2020-01-04T00:00Z",
+        "year": 2019,
+        "stateCode": "SN",
+        "name": "weihnachtsferien",
+        "slug": "weihnachtsferien-2019-SN"
+    }
+]
