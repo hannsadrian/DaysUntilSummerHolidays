@@ -1,0 +1,5 @@
+.background-beach {
+    background: rgba(0, 0, 0, 0.15) url('https://images.unsplash.com/photo-1558888434-e1f808621906?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-blend-mode: darken;
+}
